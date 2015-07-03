@@ -19,6 +19,7 @@
     </head><!--/head-->
 
     <body data-spy="scroll" data-target="#navbar" data-offset="0">
+    <?php include_once("php/analyticstracking.php" ) ?>
         <header id="header" role="banner">
             <div class="container">
                 <div id="navbar" class="navbar navbar-default">
