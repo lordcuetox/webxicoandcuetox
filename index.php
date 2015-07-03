@@ -4,8 +4,8 @@
         <meta charset="utf-8">
         <title>Webxico & Cuetox | Tirando Código</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="">
-        <meta name="author" content="">
+        <meta name="description" content="Página oficial de Webxico & Cuetos">
+        <meta name="author" content="Webxico & Cueto">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         <link rel="icon" href="favicon.ico" type="image/x-icon">
         <link href="css/bootstrap.min.css" rel="stylesheet">
